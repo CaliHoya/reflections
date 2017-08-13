@@ -12,8 +12,10 @@ You can type 'git status' to make sure the files in the staging area are those t
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When you're working on an experimental feature that you're not sure you'll use. Or if you're working on a logically separate version (like another language).
 
 How do the diagrams help you visualize the branch structure?
+They help you see what commits belong to which branch, and when you might have a detached head state where a commit could be lost.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
