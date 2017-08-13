@@ -8,6 +8,7 @@ The working directory are all files in the directory, and the repository are all
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+You can type 'git status' to make sure the files in the staging area are those that relate to the same logical change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
