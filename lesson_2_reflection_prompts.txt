@@ -19,6 +19,8 @@ They help you see what commits belong to which branch, and when you might have a
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+It merges all the code and the commit history from both branches. We represent it in a separate line since it includes both histories.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Pros of automatic merging is not taking the time to do a manual merge. Cons are that the automatic merge may be suboptimal.
