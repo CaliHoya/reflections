@@ -20,9 +20,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    You chould use a version control system like Google Docs, where there are auto-saves and real-time changes. It would be easier when
+    making changes can't break things, but it would be much harder to understand changes made and to avoid shipping incomplete features.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Making changes in a separate branch allows you to push to the remote repository while making sure you don't change master without having your collaborators confirm that the code will not break master. You'd want to keep everything on master when you're working alone and don't think the current changes can break master.
